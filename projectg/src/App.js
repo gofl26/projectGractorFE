@@ -13,7 +13,7 @@ import Location from './components/location';
 import ZoomControl from './components/zoomControl';
 import Frame from './components/frame';
 import Toolbar from './components/toolbar';
-import ToolTop from './components/tooltop';
+// import ToolTop from './components/tooltop';
 
 function App() {
 
@@ -31,7 +31,7 @@ function App() {
       <ZoomControl/>
       <Frame/>
       <Toolbar/>
-      <ToolTop/>
+      {/* <ToolTop/> */}
     </div>
   );
 }
