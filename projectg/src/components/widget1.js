@@ -64,7 +64,7 @@ const Widget1Container = styled.div`
     width: 270px;
     height: 330px;
     left: 70px;
-    top: 85px;
+    top: 480px;
     z-index:2;
 
     background: #FFFFFF;
